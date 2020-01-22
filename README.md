@@ -4,7 +4,7 @@
 Linux
 
 ### Description
-Detect vehicles using Computer Vision and record the number of vehicles at the location of each CCTV. After the algorithm runs, a heat map of the distribution is plotted.
+Detects vehicles using Computer Vision and records the number of vehicles at the location of each CCTV. After the algorithm runs, a heat map of the distribution is plotted.
 
 ### Potential Use Cases
 <ul>
