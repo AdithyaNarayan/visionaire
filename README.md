@@ -1,11 +1,20 @@
-# hackRoll2020
-Platform: Linux
+# Visionaire
 
-Description: Detect vehicles and record the number of vehicles at the location of each CCTV.
+### Platform
+Linux
 
-Potential Use Case: This can help police to identify areas with illegal use of vehicles such as PMDs.
+### Description
+Detect vehicles using Computer Vision and record the number of vehicles at the location of each CCTV. After the algorithm runs, a heat map of the distribution is plotted.
 
-Frameworks Used: OpenCV(>3.0.0), Google Maps, Tkinter
+### Potential Use Cases
+<ul>
+  <li>This can help police to identify areas with illegal use of vehicles such as PMDs</li> 
+  <li>Traffic can be analysed to create a traffic congestion heat map</li>
+</ul>
 
-To run the project: Click the EliteVision.sh file to run. Please ensure that there is enough space on your laptop 
+### Frameworks Used
+OpenCV(>3.0.0), Google Maps, Tkinter
+
+### Instructions
+Click the EliteVision.sh file to run. Please ensure that there is enough space on your laptop 
 for the heat map and graphs.
